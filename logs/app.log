@@ -1,0 +1,1528 @@
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T07:46:47.186Z' }
+{ message: 'langs: [object Map]',
+  level: 'error',
+  timestamp: '2019-11-06T07:46:52.353Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T07:48:42.432Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T07:52:09.065Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T09:13:44.498Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T09:16:45.484Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T09:17:57.503Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T13:39:23.511Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T13:42:07.971Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T13:44:17.319Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T13:47:57.226Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T13:50:21.450Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T13:51:00.210Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:26:17.157Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:26:58.937Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:30:45.893Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:32:57.408Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:35:17.087Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:36:13.144Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:37:43.059Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:39:52.373Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:40:27.541Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:40:46.256Z' }
+{ error:
+   TypeError: Cannot read property 'constructor' of undefined
+       at ExpressApp._init (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:23:15)
+       at new ExpressApp (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:16:14)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:27:20)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3),
+  level: 'error',
+  message:
+   'uncaughtException: Cannot read property \'constructor\' of undefined\nTypeError: Cannot read property \'constructor\' of undefined\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:15)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:27:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  stack:
+   'TypeError: Cannot read property \'constructor\' of undefined\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:15)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:27:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  exception: true,
+  date: 'Wed Nov 06 2019 21:16:37 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 18800,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        'b0bd29407615275d1b029ab110ec02e8',
+        '936bf316aab53d4bbf62d4cbfe36c5e37c0f447e965fbd9d095d0e913020ae04' ],
+     memoryUsage:
+      { rss: 187604992,
+        heapTotal: 168423424,
+        heapUsed: 138730272,
+        external: 417882 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 35741 },
+  trace:
+   [ { column: 15,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'ExpressApp._init',
+       line: 23,
+       method: '_init',
+       native: false },
+     { column: 14,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'new ExpressApp',
+       line: 16,
+       method: null,
+       native: false },
+     { column: 20,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 27,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false },
+     { column: 12,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'tryModuleLoad',
+       line: 593,
+       method: null,
+       native: false },
+     { column: 3,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._load',
+       line: 585,
+       method: '_load',
+       native: false } ],
+  timestamp: '2019-11-06T15:46:37.247Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:47:01.794Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:50:34.558Z' }
+{ error:
+   TypeError: config_1.EnvConfig is not a constructor
+       at ExpressApp._init (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:23:9)
+       at new ExpressApp (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:16:14)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:28:20)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3),
+  level: 'error',
+  message:
+   'uncaughtException: config_1.EnvConfig is not a constructor\nTypeError: config_1.EnvConfig is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:9)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  stack:
+   'TypeError: config_1.EnvConfig is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:9)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  exception: true,
+  date: 'Wed Nov 06 2019 21:23:27 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 6512,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        'b0bd29407615275d1b029ab110ec02e8',
+        '936bf316aab53d4bbf62d4cbfe36c5e37c0f447e965fbd9d095d0e913020ae04' ],
+     memoryUsage:
+      { rss: 188010496,
+        heapTotal: 168423424,
+        heapUsed: 140260432,
+        external: 565622 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 36151 },
+  trace:
+   [ { column: 9,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'ExpressApp._init',
+       line: 23,
+       method: '_init',
+       native: false },
+     { column: 14,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'new ExpressApp',
+       line: 16,
+       method: null,
+       native: false },
+     { column: 20,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 28,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false },
+     { column: 12,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'tryModuleLoad',
+       line: 593,
+       method: null,
+       native: false },
+     { column: 3,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._load',
+       line: 585,
+       method: '_load',
+       native: false } ],
+  timestamp: '2019-11-06T15:53:27.210Z' }
+{ error:
+   TypeError: config_1.EnvConfig is not a constructor
+       at ExpressApp._init (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:23:22)
+       at new ExpressApp (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:16:14)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:28:20)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3),
+  level: 'error',
+  message:
+   'uncaughtException: config_1.EnvConfig is not a constructor\nTypeError: config_1.EnvConfig is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:22)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  stack:
+   'TypeError: config_1.EnvConfig is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:22)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  exception: true,
+  date: 'Wed Nov 06 2019 21:24:45 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 15012,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        'b0bd29407615275d1b029ab110ec02e8',
+        '936bf316aab53d4bbf62d4cbfe36c5e37c0f447e965fbd9d095d0e913020ae04' ],
+     memoryUsage:
+      { rss: 187592704,
+        heapTotal: 168947712,
+        heapUsed: 138282368,
+        external: 380960 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 36230 },
+  trace:
+   [ { column: 22,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'ExpressApp._init',
+       line: 23,
+       method: '_init',
+       native: false },
+     { column: 14,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'new ExpressApp',
+       line: 16,
+       method: null,
+       native: false },
+     { column: 20,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 28,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false },
+     { column: 12,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'tryModuleLoad',
+       line: 593,
+       method: null,
+       native: false },
+     { column: 3,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._load',
+       line: 585,
+       method: '_load',
+       native: false } ],
+  timestamp: '2019-11-06T15:54:46.005Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T15:56:13.513Z' }
+{ error:
+   TypeError: config is not a constructor
+       at ExpressApp._init (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:24:30)
+       at new ExpressApp (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:16:14)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:28:20)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3),
+  level: 'error',
+  message:
+   'uncaughtException: config is not a constructor\nTypeError: config is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:24:30)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  stack:
+   'TypeError: config is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:24:30)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  exception: true,
+  date: 'Wed Nov 06 2019 21:26:33 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 12612,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        'b0bd29407615275d1b029ab110ec02e8',
+        '936bf316aab53d4bbf62d4cbfe36c5e37c0f447e965fbd9d095d0e913020ae04' ],
+     memoryUsage:
+      { rss: 187346944,
+        heapTotal: 169472000,
+        heapUsed: 137291768,
+        external: 295409 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 36337 },
+  trace:
+   [ { column: 30,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'ExpressApp._init',
+       line: 24,
+       method: '_init',
+       native: false },
+     { column: 14,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'new ExpressApp',
+       line: 16,
+       method: null,
+       native: false },
+     { column: 20,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 28,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false },
+     { column: 12,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'tryModuleLoad',
+       line: 593,
+       method: null,
+       native: false },
+     { column: 3,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._load',
+       line: 585,
+       method: '_load',
+       native: false } ],
+  timestamp: '2019-11-06T15:56:33.291Z' }
+{ error:
+   TypeError: config_1.EnvConfig is not a constructor
+       at ExpressApp._init (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:23:23)
+       at new ExpressApp (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:16:14)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:28:20)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3),
+  level: 'error',
+  message:
+   'uncaughtException: config_1.EnvConfig is not a constructor\nTypeError: config_1.EnvConfig is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:23)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  stack:
+   'TypeError: config_1.EnvConfig is not a constructor\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:23:23)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:16:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:28:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  exception: true,
+  date: 'Wed Nov 06 2019 21:32:05 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 19720,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        'b0bd29407615275d1b029ab110ec02e8',
+        '936bf316aab53d4bbf62d4cbfe36c5e37c0f447e965fbd9d095d0e913020ae04' ],
+     memoryUsage:
+      { rss: 187080704,
+        heapTotal: 169472000,
+        heapUsed: 136585288,
+        external: 201281 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 36669 },
+  trace:
+   [ { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'ExpressApp._init',
+       line: 23,
+       method: '_init',
+       native: false },
+     { column: 14,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'new ExpressApp',
+       line: 16,
+       method: null,
+       native: false },
+     { column: 20,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 28,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false },
+     { column: 12,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'tryModuleLoad',
+       line: 593,
+       method: null,
+       native: false },
+     { column: 3,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._load',
+       line: 585,
+       method: '_load',
+       native: false } ],
+  timestamp: '2019-11-06T16:02:05.491Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-06T16:12:30.479Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-08T10:12:20.061Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-08T10:22:54.866Z' }
+{ error:
+   TypeError: cors_1.cors is not a function
+       at ExpressApp._init (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:22:22)
+       at new ExpressApp (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:18:14)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:29:20)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3),
+  level: 'error',
+  message:
+   'uncaughtException: cors_1.cors is not a function\nTypeError: cors_1.cors is not a function\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:22:22)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:18:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:29:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  stack:
+   'TypeError: cors_1.cors is not a function\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:22:22)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:18:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:29:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  exception: true,
+  date: 'Sun Nov 10 2019 13:03:10 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 19212,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts' ],
+     memoryUsage:
+      { rss: 188817408,
+        heapTotal: 169472000,
+        heapUsed: 139820112,
+        external: 545566 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 351735 },
+  trace:
+   [ { column: 22,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'ExpressApp._init',
+       line: 22,
+       method: '_init',
+       native: false },
+     { column: 14,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'new ExpressApp',
+       line: 18,
+       method: null,
+       native: false },
+     { column: 20,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 29,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false },
+     { column: 12,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'tryModuleLoad',
+       line: 593,
+       method: null,
+       native: false },
+     { column: 3,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._load',
+       line: 585,
+       method: '_load',
+       native: false } ],
+  timestamp: '2019-11-10T07:33:10.821Z' }
+{ error:
+   TypeError: cors_1.Cors is not a function
+       at ExpressApp._init (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:22:22)
+       at new ExpressApp (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:18:14)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:29:20)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+       at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+       at Function.Module._load (internal/modules/cjs/loader.js:585:3),
+  level: 'error',
+  message:
+   'uncaughtException: cors_1.Cors is not a function\nTypeError: cors_1.Cors is not a function\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:22:22)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:18:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:29:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  stack:
+   'TypeError: cors_1.Cors is not a function\n    at ExpressApp._init (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:22:22)\n    at new ExpressApp (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:18:14)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:29:20)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)\n    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)\n    at Function.Module._load (internal/modules/cjs/loader.js:585:3)',
+  exception: true,
+  date: 'Sun Nov 10 2019 13:06:30 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 21516,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts' ],
+     memoryUsage:
+      { rss: 187650048,
+        heapTotal: 167899136,
+        heapUsed: 141706968,
+        external: 572245 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 351934 },
+  trace:
+   [ { column: 22,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'ExpressApp._init',
+       line: 22,
+       method: '_init',
+       native: false },
+     { column: 14,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: 'new ExpressApp',
+       line: 18,
+       method: null,
+       native: false },
+     { column: 20,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 29,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false },
+     { column: 12,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'tryModuleLoad',
+       line: 593,
+       method: null,
+       native: false },
+     { column: 3,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._load',
+       line: 585,
+       method: '_load',
+       native: false } ],
+  timestamp: '2019-11-10T07:36:30.442Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T07:39:26.292Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T07:57:41.366Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:02:04.834Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:03:35.365Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:29:21.442Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:30:37.237Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:31:04.442Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:31:41.537Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:32:13.030Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:32:59.878Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:33:33.350Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:42:01.178Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:43:07.068Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:43:15.996Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:44:09.984Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-10T08:56:45.967Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-11T05:25:54.908Z' }
+{ error:
+   { Error: listen EADDRINUSE: address already in use :::3000
+       at Server.setupListenHandle [as _listen2] (net.js:1279:14)
+       at listenInCluster (net.js:1327:12)
+       at Server.listen (net.js:1414:7)
+       at Function.listen (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\express\lib\application.js:618:24)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:31:5)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+     code: 'EADDRINUSE',
+     errno: 'EADDRINUSE',
+     syscall: 'listen',
+     address: '::',
+     port: 3000 },
+  level: 'error',
+  message:
+   'uncaughtException: listen EADDRINUSE: address already in use :::3000\nError: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (net.js:1279:14)\n    at listenInCluster (net.js:1327:12)\n    at Server.listen (net.js:1414:7)\n    at Function.listen (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:31:5)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)',
+  stack:
+   'Error: listen EADDRINUSE: address already in use :::3000\n    at Server.setupListenHandle [as _listen2] (net.js:1279:14)\n    at listenInCluster (net.js:1327:12)\n    at Server.listen (net.js:1414:7)\n    at Function.listen (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:31:5)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)',
+  exception: true,
+  date: 'Thu Nov 14 2019 06:18:52 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 18644,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts' ],
+     memoryUsage:
+      { rss: 189644800,
+        heapTotal: 169472000,
+        heapUsed: 140705744,
+        external: 586515 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 673076 },
+  trace:
+   [ { column: 14,
+       file: 'net.js',
+       function: 'Server.setupListenHandle [as _listen2]',
+       line: 1279,
+       method: 'setupListenHandle [as _listen2]',
+       native: false },
+     { column: 12,
+       file: 'net.js',
+       function: 'listenInCluster',
+       line: 1327,
+       method: null,
+       native: false },
+     { column: 7,
+       file: 'net.js',
+       function: 'Server.listen',
+       line: 1414,
+       method: 'listen',
+       native: false },
+     { column: 24,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\express\\lib\\application.js',
+       function: 'Function.listen',
+       line: 618,
+       method: 'listen',
+       native: false },
+     { column: 5,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 31,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false } ],
+  timestamp: '2019-11-14T00:48:52.235Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-14T11:06:43.330Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-14T11:08:19.886Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-14T11:09:01.095Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-14T11:37:00.083Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-14T11:40:36.791Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-18T06:06:14.026Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-18T07:25:17.073Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-23T13:41:11.928Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-24T00:40:34.079Z' }
+{ error:
+   SyntaxError: Unexpected token < in JSON at position 0
+       at JSON.parse (<anonymous>)
+       at Request.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\utils\jdoodle-request-handler\request-handler.ts:36:41)
+       at Request.emit (events.js:198:13)
+       at Request.EventEmitter.emit (domain.js:448:20)
+       at IncomingMessage.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\request\request.js:1080:12)
+       at IncomingMessage.emit (events.js:198:13)
+       at IncomingMessage.EventEmitter.emit (domain.js:448:20)
+       at IncomingMessage.Readable.read (_stream_readable.js:504:10)
+       at flow (_stream_readable.js:973:34)
+       at resume_ (_stream_readable.js:954:3),
+  level: 'error',
+  message:
+   'uncaughtException: Unexpected token < in JSON at position 0\nSyntaxError: Unexpected token < in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at Request.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts:36:41)\n    at Request.emit (events.js:198:13)\n    at Request.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js:1080:12)\n    at IncomingMessage.emit (events.js:198:13)\n    at IncomingMessage.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.Readable.read (_stream_readable.js:504:10)\n    at flow (_stream_readable.js:973:34)\n    at resume_ (_stream_readable.js:954:3)',
+  stack:
+   'SyntaxError: Unexpected token < in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at Request.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts:36:41)\n    at Request.emit (events.js:198:13)\n    at Request.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js:1080:12)\n    at IncomingMessage.emit (events.js:198:13)\n    at IncomingMessage.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.Readable.read (_stream_readable.js:504:10)\n    at flow (_stream_readable.js:973:34)\n    at resume_ (_stream_readable.js:954:3)',
+  exception: true,
+  date: 'Sun Nov 24 2019 06:15:05 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 24244,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        '=',
+        '3000' ],
+     memoryUsage:
+      { rss: 162349056,
+        heapTotal: 115445760,
+        heapUsed: 108456968,
+        external: 201366 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 406535 },
+  trace:
+   [ { column: null,
+       file: null,
+       function: 'JSON.parse',
+       line: null,
+       method: 'parse',
+       native: false },
+     { column: 41,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts',
+       function: null,
+       line: 36,
+       method: null,
+       native: false },
+     { column: 13,
+       file: 'events.js',
+       function: 'Request.emit',
+       line: 198,
+       method: 'emit',
+       native: false },
+     { column: 20,
+       file: 'domain.js',
+       function: 'Request.EventEmitter.emit',
+       line: 448,
+       method: 'emit',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js',
+       function: null,
+       line: 1080,
+       method: null,
+       native: false },
+     { column: 13,
+       file: 'events.js',
+       function: 'IncomingMessage.emit',
+       line: 198,
+       method: 'emit',
+       native: false },
+     { column: 20,
+       file: 'domain.js',
+       function: 'IncomingMessage.EventEmitter.emit',
+       line: 448,
+       method: 'emit',
+       native: false },
+     { column: 10,
+       file: '_stream_readable.js',
+       function: 'IncomingMessage.Readable.read',
+       line: 504,
+       method: 'read',
+       native: false },
+     { column: 34,
+       file: '_stream_readable.js',
+       function: 'flow',
+       line: 973,
+       method: null,
+       native: false },
+     { column: 3,
+       file: '_stream_readable.js',
+       function: 'resume_',
+       line: 954,
+       method: null,
+       native: false } ],
+  timestamp: '2019-11-24T00:45:05.347Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-24T00:48:10.913Z' }
+{ error:
+   SyntaxError: Unexpected token < in JSON at position 0
+       at JSON.parse (<anonymous>)
+       at Request.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\utils\jdoodle-request-handler\request-handler.ts:36:41)
+       at Request.emit (events.js:198:13)
+       at Request.EventEmitter.emit (domain.js:448:20)
+       at IncomingMessage.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\request\request.js:1080:12)
+       at IncomingMessage.emit (events.js:198:13)
+       at IncomingMessage.EventEmitter.emit (domain.js:448:20)
+       at IncomingMessage.Readable.read (_stream_readable.js:504:10)
+       at flow (_stream_readable.js:973:34)
+       at resume_ (_stream_readable.js:954:3),
+  level: 'error',
+  message:
+   'uncaughtException: Unexpected token < in JSON at position 0\nSyntaxError: Unexpected token < in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at Request.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts:36:41)\n    at Request.emit (events.js:198:13)\n    at Request.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js:1080:12)\n    at IncomingMessage.emit (events.js:198:13)\n    at IncomingMessage.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.Readable.read (_stream_readable.js:504:10)\n    at flow (_stream_readable.js:973:34)\n    at resume_ (_stream_readable.js:954:3)',
+  stack:
+   'SyntaxError: Unexpected token < in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at Request.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts:36:41)\n    at Request.emit (events.js:198:13)\n    at Request.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js:1080:12)\n    at IncomingMessage.emit (events.js:198:13)\n    at IncomingMessage.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.Readable.read (_stream_readable.js:504:10)\n    at flow (_stream_readable.js:973:34)\n    at resume_ (_stream_readable.js:954:3)',
+  exception: true,
+  date: 'Sun Nov 24 2019 06:18:43 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 3648,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        '=',
+        '3000' ],
+     memoryUsage:
+      { rss: 162381824,
+        heapTotal: 115970048,
+        heapUsed: 108370312,
+        external: 152581 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 406753 },
+  trace:
+   [ { column: null,
+       file: null,
+       function: 'JSON.parse',
+       line: null,
+       method: 'parse',
+       native: false },
+     { column: 41,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts',
+       function: null,
+       line: 36,
+       method: null,
+       native: false },
+     { column: 13,
+       file: 'events.js',
+       function: 'Request.emit',
+       line: 198,
+       method: 'emit',
+       native: false },
+     { column: 20,
+       file: 'domain.js',
+       function: 'Request.EventEmitter.emit',
+       line: 448,
+       method: 'emit',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js',
+       function: null,
+       line: 1080,
+       method: null,
+       native: false },
+     { column: 13,
+       file: 'events.js',
+       function: 'IncomingMessage.emit',
+       line: 198,
+       method: 'emit',
+       native: false },
+     { column: 20,
+       file: 'domain.js',
+       function: 'IncomingMessage.EventEmitter.emit',
+       line: 448,
+       method: 'emit',
+       native: false },
+     { column: 10,
+       file: '_stream_readable.js',
+       function: 'IncomingMessage.Readable.read',
+       line: 504,
+       method: 'read',
+       native: false },
+     { column: 34,
+       file: '_stream_readable.js',
+       function: 'flow',
+       line: 973,
+       method: null,
+       native: false },
+     { column: 3,
+       file: '_stream_readable.js',
+       function: 'resume_',
+       line: 954,
+       method: null,
+       native: false } ],
+  timestamp: '2019-11-24T00:48:43.263Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-24T00:55:14.051Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-24T01:01:51.603Z' }
+{ error:
+   SyntaxError: Unexpected token < in JSON at position 0
+       at JSON.parse (<anonymous>)
+       at Request.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\utils\jdoodle-request-handler\request-handler.ts:36:41)
+       at Request.emit (events.js:198:13)
+       at Request.EventEmitter.emit (domain.js:448:20)
+       at IncomingMessage.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\request\request.js:1080:12)
+       at IncomingMessage.emit (events.js:198:13)
+       at IncomingMessage.EventEmitter.emit (domain.js:448:20)
+       at IncomingMessage.Readable.read (_stream_readable.js:504:10)
+       at flow (_stream_readable.js:973:34)
+       at resume_ (_stream_readable.js:954:3),
+  level: 'error',
+  message:
+   'uncaughtException: Unexpected token < in JSON at position 0\nSyntaxError: Unexpected token < in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at Request.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts:36:41)\n    at Request.emit (events.js:198:13)\n    at Request.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js:1080:12)\n    at IncomingMessage.emit (events.js:198:13)\n    at IncomingMessage.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.Readable.read (_stream_readable.js:504:10)\n    at flow (_stream_readable.js:973:34)\n    at resume_ (_stream_readable.js:954:3)',
+  stack:
+   'SyntaxError: Unexpected token < in JSON at position 0\n    at JSON.parse (<anonymous>)\n    at Request.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts:36:41)\n    at Request.emit (events.js:198:13)\n    at Request.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js:1080:12)\n    at IncomingMessage.emit (events.js:198:13)\n    at IncomingMessage.EventEmitter.emit (domain.js:448:20)\n    at IncomingMessage.Readable.read (_stream_readable.js:504:10)\n    at flow (_stream_readable.js:973:34)\n    at resume_ (_stream_readable.js:954:3)',
+  exception: true,
+  date: 'Sun Nov 24 2019 06:34:06 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 8612,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        '=',
+        '3000' ],
+     memoryUsage:
+      { rss: 162619392,
+        heapTotal: 114921472,
+        heapUsed: 108788448,
+        external: 210274 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 407677 },
+  trace:
+   [ { column: null,
+       file: null,
+       function: 'JSON.parse',
+       line: null,
+       method: 'parse',
+       native: false },
+     { column: 41,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\utils\\jdoodle-request-handler\\request-handler.ts',
+       function: null,
+       line: 36,
+       method: null,
+       native: false },
+     { column: 13,
+       file: 'events.js',
+       function: 'Request.emit',
+       line: 198,
+       method: 'emit',
+       native: false },
+     { column: 20,
+       file: 'domain.js',
+       function: 'Request.EventEmitter.emit',
+       line: 448,
+       method: 'emit',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\request\\request.js',
+       function: null,
+       line: 1080,
+       method: null,
+       native: false },
+     { column: 13,
+       file: 'events.js',
+       function: 'IncomingMessage.emit',
+       line: 198,
+       method: 'emit',
+       native: false },
+     { column: 20,
+       file: 'domain.js',
+       function: 'IncomingMessage.EventEmitter.emit',
+       line: 448,
+       method: 'emit',
+       native: false },
+     { column: 10,
+       file: '_stream_readable.js',
+       function: 'IncomingMessage.Readable.read',
+       line: 504,
+       method: 'read',
+       native: false },
+     { column: 34,
+       file: '_stream_readable.js',
+       function: 'flow',
+       line: 973,
+       method: null,
+       native: false },
+     { column: 3,
+       file: '_stream_readable.js',
+       function: 'resume_',
+       line: 954,
+       method: null,
+       native: false } ],
+  timestamp: '2019-11-24T01:04:06.973Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-11-24T08:07:53.639Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-01T11:59:54.253Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-02T06:05:08.622Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:15:55.236Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:21:41.644Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:22:21.423Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:22:48.865Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:23:44.250Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:24:06.032Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:24:27.252Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:24:54.639Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:26:17.367Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:27:37.889Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:28:24.667Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:28:57.252Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:29:50.199Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:30:35.930Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:31:24.359Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:33:55.437Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T07:34:37.557Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T07:35:50.613Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T07:42:18.456Z' }
+{ level: 'info',
+  message: 'server running on port DEV',
+  timestamp: '2019-12-05T07:43:17.358Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T07:48:45.922Z' }
+{ error:
+   { Error: listen EACCES: permission denied DEV
+       at Server.setupListenHandle [as _listen2] (net.js:1262:19)
+       at listenInCluster (net.js:1327:12)
+       at Server.listen (net.js:1425:5)
+       at Function.listen (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\express\lib\application.js:618:24)
+       at Object.<anonymous> (C:\Users\u6079845\IdeaProjects\EditorServer\server\server.ts:31:5)
+       at Module._compile (internal/modules/cjs/loader.js:778:30)
+       at Module.m._compile (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:493:23)
+       at Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+       at Object.require.extensions.(anonymous function) [as .ts] (C:\Users\u6079845\IdeaProjects\EditorServer\node_modules\ts-node\src\index.ts:496:12)
+       at Module.load (internal/modules/cjs/loader.js:653:32)
+     code: 'EACCES',
+     errno: 'EACCES',
+     syscall: 'listen',
+     address: 'DEV',
+     port: -1 },
+  level: 'error',
+  message:
+   'uncaughtException: listen EACCES: permission denied DEV\nError: listen EACCES: permission denied DEV\n    at Server.setupListenHandle [as _listen2] (net.js:1262:19)\n    at listenInCluster (net.js:1327:12)\n    at Server.listen (net.js:1425:5)\n    at Function.listen (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:31:5)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)',
+  stack:
+   'Error: listen EACCES: permission denied DEV\n    at Server.setupListenHandle [as _listen2] (net.js:1262:19)\n    at listenInCluster (net.js:1327:12)\n    at Server.listen (net.js:1425:5)\n    at Function.listen (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\express\\lib\\application.js:618:24)\n    at Object.<anonymous> (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts:31:5)\n    at Module._compile (internal/modules/cjs/loader.js:778:30)\n    at Module.m._compile (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:493:23)\n    at Module._extensions..js (internal/modules/cjs/loader.js:789:10)\n    at Object.require.extensions.(anonymous function) [as .ts] (C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts:496:12)\n    at Module.load (internal/modules/cjs/loader.js:653:32)',
+  exception: true,
+  date: 'Thu Dec 05 2019 14:16:21 GMT+0530 (India Standard Time)',
+  process:
+   { pid: 25716,
+     uid: null,
+     gid: null,
+     cwd: 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer',
+     execPath: 'C:\\Program Files\\nodejs\\node.exe',
+     version: 'v10.16.3',
+     argv:
+      [ 'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\dist\\bin.js',
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+        './dist/server/server.ts',
+        'DEV',
+        '4000',
+        'b0bd29407615275d1b029ab110ec02e8',
+        '936bf316aab53d4bbf62d4cbfe36c5e37c0f447e965fbd9d095d0e913020ae04' ],
+     memoryUsage:
+      { rss: 215592960,
+        heapTotal: 171569152,
+        heapUsed: 146210288,
+        external: 594707 } },
+  os: { loadavg: [ 0, 0, 0 ], uptime: 690459 },
+  trace:
+   [ { column: 19,
+       file: 'net.js',
+       function: 'Server.setupListenHandle [as _listen2]',
+       line: 1262,
+       method: 'setupListenHandle [as _listen2]',
+       native: false },
+     { column: 12,
+       file: 'net.js',
+       function: 'listenInCluster',
+       line: 1327,
+       method: null,
+       native: false },
+     { column: 5,
+       file: 'net.js',
+       function: 'Server.listen',
+       line: 1425,
+       method: 'listen',
+       native: false },
+     { column: 24,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\express\\lib\\application.js',
+       function: 'Function.listen',
+       line: 618,
+       method: 'listen',
+       native: false },
+     { column: 5,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\server\\server.ts',
+       function: null,
+       line: 31,
+       method: null,
+       native: false },
+     { column: 30,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._compile',
+       line: 778,
+       method: '_compile',
+       native: false },
+     { column: 23,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Module.m._compile',
+       line: 493,
+       method: '_compile',
+       native: false },
+     { column: 10,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module._extensions..js',
+       line: 789,
+       method: '.js',
+       native: false },
+     { column: 12,
+       file:
+        'C:\\Users\\u6079845\\IdeaProjects\\EditorServer\\node_modules\\ts-node\\src\\index.ts',
+       function: 'Object.require.extensions.(anonymous function) [as .ts]',
+       line: 496,
+       method: 'ts]',
+       native: false },
+     { column: 32,
+       file: 'internal/modules/cjs/loader.js',
+       function: 'Module.load',
+       line: 653,
+       method: 'load',
+       native: false } ],
+  timestamp: '2019-12-05T08:46:21.827Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T08:48:14.252Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T08:52:34.875Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T08:56:51.532Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T09:00:10.867Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T09:01:41.196Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T09:06:18.039Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T09:07:45.855Z' }
+{ level: 'info',
+  message: 'server running on port 4000',
+  timestamp: '2019-12-05T09:08:53.546Z' }
+{ level: 'info',
+  message: 'server running on port 3000',
+  timestamp: '2019-12-05T09:16:09.070Z' }

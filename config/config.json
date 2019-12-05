@@ -1,0 +1,14 @@
+{
+  "dev" : {
+    "PORT": 3000,
+    "JDOODLE_CLIENT_ID" : "",
+    "JDOODLE_CLIENT_SECRET": "",
+    "DB_URI" : "dev.example-db-uri.com"
+  },
+  "test" : {
+    "PORT": 4000,
+    "JDOODLE_CLIENT_ID" : "...",
+    "JDOODLE_CLIENT_SECRET": "...",
+    "DB_URI" : "test.example-db-uri.com"
+  }
+}
